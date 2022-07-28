@@ -5,8 +5,8 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', 10)
 pd.set_option('display.float_format', lambda x: '%.2f' % x)
 
-df_c = pd.read_excel(r"C:\Users\samedp\Desktop\ödev_4\ab_testing.xlsx", sheet_name=0)
-df_t = pd.read_excel(r"C:\Users\samedp\Desktop\ödev_4\ab_testing.xlsx", sheet_name=1)
+df_c = pd.read_excel(r"C:\Users\Desktop\ödev_4\ab_testing.xlsx", sheet_name=0)
+df_t = pd.read_excel(r"C:\Users\Desktop\ödev_4\ab_testing.xlsx", sheet_name=1)
 
 # Facebook recently introduced what's called "maximumbidding".
 # a new bidding type as an alternative to the bidding type Introduced "average bidding".
