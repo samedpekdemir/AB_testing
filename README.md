@@ -1,0 +1,2 @@
+# AB_testing
+ Facebook recently introduced what's called "maximumbidding".  a new bidding type as an alternative to the bidding type Introduced "average bidding".  One of our customers, bombabomba.com, is testing this new feature. The ultimate success criterion for Bombabomba.com is Purchase. Therefore, we refer to the Purchase metric for statistical testing should be focused. and A/B test will be done
